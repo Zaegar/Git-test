@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>christopher.polson@snc</sys_created_by>
+        <sys_created_on>2023-04-21 23:11:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>799d8f9a1b92e950e7918485604bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Git Test" source="x_snc_git_test_01">cb2dcb9a1b92e950e7918485604bcb89</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Test">cb2dcb9a1b92e950e7918485604bcb89</sys_scope>
+        <sys_update_name>sys_app_application_799d8f9a1b92e950e7918485604bcb4c</sys_update_name>
+        <sys_updated_by>christopher.polson@snc</sys_updated_by>
+        <sys_updated_on>2023-04-21 23:11:13</sys_updated_on>
+        <title>Git Test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

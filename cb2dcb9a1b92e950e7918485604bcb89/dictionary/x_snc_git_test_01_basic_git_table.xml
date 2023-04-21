@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9d6d43da1b92e950e7918485604bcb2b" label="basic git table" max_length="40" name="x_snc_git_test_01_basic_git_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data" max_length="4000" name="data" type="string"/>
+    </element>
+</database>
